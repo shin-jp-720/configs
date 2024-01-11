@@ -36,3 +36,5 @@ augroup vimrc
 	autocmd!
 	autocmd FileType vim setlocal keywordprg=:help
 augroup	END
+
+set clipboard=unnamedplus 
